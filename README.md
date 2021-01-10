@@ -1,4 +1,3 @@
-# python-DZ
 import openpyxl
 import random
 
